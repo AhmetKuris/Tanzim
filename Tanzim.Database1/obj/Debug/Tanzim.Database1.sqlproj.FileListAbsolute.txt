@@ -1,0 +1,16 @@
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.dacpac
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.dll
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.pdb
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.sqlprojAssemblyReference.cache
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.dll
+C:\Users\ahmet\Documents\faketoggl\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.pdb
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.dacpac
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.dll
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\bin\Debug\Tanzim.Database1.pdb
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.sqlprojAssemblyReference.cache
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\Model.xml
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\refactor.xml
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\postdeploy.sql
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\predeploy.sql
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.dll
+C:\Users\Huseyin\Desktop\projeler\C#\group_Work\Tanzim\Tanzim.Database1\obj\Debug\Tanzim.Database1.pdb
